@@ -1,0 +1,21 @@
+{
+	"name": "RohansAss",
+	"subdomain": "rohansass",
+	"description": "Rohan's beautiful black butt",
+	"version": "0.0.1-1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x",
+		"htmlparser": "latest",
+		"request": "latest",
+		"soupselect": "0.2.x",
+		"cheerio": "0.13.x",
+        "alchemy-api": "latest"
+	},
+	"scripts": {
+		"start": "node app.js"
+	},
+	"engines": {
+		"node": "0.10.x"
+	}
+}

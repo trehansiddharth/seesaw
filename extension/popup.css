@@ -1,0 +1,32 @@
+body {
+    height:182px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.link_button {
+color:black;
+display:block;
+margin:2px auto;
+width:170px;
+border: 2px solid #abf;
+text-decoration:none;
+padding: 3px;
+}
+
+.link_button:hover {
+background-color:#d4d4d4;
+text-decoration:none;
+}
+
+#articles {
+    
+}
+
+span.tiny {
+    text-align: right;
+    font-size: 0.8em;
+    width: fill;
+    display: block; 
+}
