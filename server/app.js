@@ -99,7 +99,7 @@ app.get("/scrape", function (req, res) {
                         {
                             if (err || bod == "ERROR")
                             {
-                                console.log(err + " you fucktard");
+                                console.log(err + " ERROR");
                             }
                             else
                             {
@@ -136,7 +136,7 @@ app.get("/scrape", function (req, res) {
                                 }
                                 catch (e)
                                 {
-                                    console.log("go fuck yourself");
+                                    console.log("Unexpected error");
                                 }
                             }
                         }
